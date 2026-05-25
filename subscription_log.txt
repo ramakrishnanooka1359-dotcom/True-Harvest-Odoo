@@ -1,0 +1,33 @@
+2026-03-12 12:05:04,231 [INFO] ============================================================
+2026-03-12 12:05:04,233 [INFO] 🚀 Subscription Runner Started — 2026-03-12
+2026-03-12 12:05:04,234 [INFO] ============================================================
+2026-03-12 12:05:04,874 [INFO] 📋 Found 3 active subscription master(s)
+2026-03-12 12:05:04,875 [INFO] 
+── Processing: S00091 (Ramakrishna Reddy) ──
+2026-03-12 12:05:04,875 [INFO]   📅 Frequency: Weekly, Next Delivery: 2026-03-12
+2026-03-12 12:05:10,304 [INFO]   ✅ Sale Order created: S00093
+2026-03-12 12:05:14,904 [INFO]   ✅ Delivery validated for S00093
+2026-03-12 12:05:18,451 [INFO]   ✅ Invoice created and posted for S00093
+2026-03-12 12:05:19,182 [INFO]   🔄 Master S00091 rolled to Next Delivery: 2026-03-19
+2026-03-12 12:05:19,183 [INFO] 
+── Processing: S00090 (Ramakrishna Reddy) ──
+2026-03-12 12:05:19,183 [INFO]   📅 Frequency: Daily, Next Delivery: 2026-03-12
+2026-03-12 12:05:27,483 [INFO]   ✅ Sale Order created: S00094
+2026-03-12 12:05:34,500 [INFO]   ✅ Delivery validated for S00094
+2026-03-12 12:05:37,927 [INFO]   ✅ Invoice created and posted for S00094
+2026-03-12 12:05:38,674 [INFO]   🧹  Removed 1 extra item line(s) from master
+2026-03-12 12:05:39,426 [INFO]   🔄 Master S00090 rolled to Next Delivery: 2026-03-13
+2026-03-12 12:05:39,426 [INFO] 
+── Processing: S00088 (Hari) ──
+2026-03-12 12:05:39,427 [INFO]   📅 Frequency: Weekly, Next Delivery: 2026-03-12
+2026-03-12 12:05:45,380 [INFO]   ✅ Sale Order created: S00095
+2026-03-12 12:05:50,260 [INFO]   ✅ Delivery validated for S00095
+2026-03-12 12:05:53,318 [INFO]   ✅ Invoice created and posted for S00095
+2026-03-12 12:05:54,074 [INFO]   🔄 Master S00088 rolled to Next Delivery: 2026-03-19
+2026-03-12 12:05:54,075 [INFO] 
+============================================================
+2026-03-12 12:05:54,075 [INFO] ✔️  Processed:        3
+2026-03-12 12:05:54,076 [INFO] 🏖️  Vacation Skipped: 0
+2026-03-12 12:05:54,076 [INFO] 📦 Stock Skipped:    0
+2026-03-12 12:05:54,076 [INFO] ❌ Errors:           0
+2026-03-12 12:05:54,077 [INFO] ============================================================
